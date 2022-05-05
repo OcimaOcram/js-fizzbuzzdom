@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 10%;
+    height: 96px;
+}
+.fizzBuzz{
+    background-color: turquoise;
+}
+.buzz{
+    background-color: lightsalmon;
+}
+.fizz{
+    background-color: lightslategray;
+}
+.normalBg{
+    background-color: lightgreen;
+}
